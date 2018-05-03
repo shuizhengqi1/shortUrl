@@ -105,13 +105,7 @@ WSGI_APPLICATION = 'Converte.wsgi.application'
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'ShortUrl',
-        'USER': 'shorturl',
-        'PASSWORD': '616675',
-        'HOST': 'www.iotxing.cn'
-    }
+   
 }
 
 
